@@ -1,4 +1,4 @@
-# speedmath
+# SpeedMath
 
 A simple game Flutter project. Speed Math is a game that simulates various mathematical operation (addition, subtraction, multiplication and division) with 15 seconds limit and computes the correct answers the user attained.
 
